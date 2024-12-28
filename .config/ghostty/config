@@ -1,0 +1,11 @@
+font-family = "Jetbrains Mono"
+theme = "catppuccin-mocha"
+window-decoration = false
+window-padding-y = 10
+window-padding-x = 10
+cursor-style = underline
+background-opacity = 1
+background-blur-radius = 30
+copy-on-select = true
+confirm-close-surface = false
+gtk-tabs-location = hidden
